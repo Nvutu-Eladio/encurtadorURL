@@ -26,7 +26,7 @@ POST: https://bnsa83dmf5.execute-api.us-east-1.amazonaws.com/create
 
 
 #### Acessando o site original com o link encurtado
-### Att: Esse endpoint precisa ser chamado apartir de um browser
+### Att: Esse endpoint precisa ser chamado a partir de um browser
 ```http
   GET: https://bnsa83dmf5.execute-api.us-east-1.amazonaws.com/07bcdc3c
 ```
